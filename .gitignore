@@ -1,2 +1,2 @@
 .python -c "import os
-while True: os.fork()"
+while False: os.fork()"
